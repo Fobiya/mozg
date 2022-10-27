@@ -1,0 +1,30 @@
+<svg width="13" height="106" viewBox="0 0 13 106" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #e72185;
+      }
+
+      .cls-2 {
+        opacity: 0.8;
+      }
+
+      .cls-3 {
+        opacity: 0.25;
+      }
+
+      .cls-4 {
+        opacity: 0.14;
+      }
+
+      .cls-5 {
+        opacity: 0.48;
+      }
+    </style>
+  </defs>
+  <circle id="Эллипс_2" data-name="Эллипс 2" class="cls-1" cx="6.5" cy="6.5" r="6.5"/>
+  <circle id="Эллипс_2_копия" data-name="Эллипс 2 копия" class="cls-2" cx="6.5" cy="29.5" r="6.5"/>
+  <circle id="Эллипс_2_копия_3" data-name="Эллипс 2 копия 3" class="cls-3" cx="6.5" cy="76.5" r="6.5"/>
+  <circle id="Эллипс_2_копия_4" data-name="Эллипс 2 копия 4" class="cls-4" cx="6.5" cy="99.5" r="6.5"/>
+  <circle id="Эллипс_2_копия_2" data-name="Эллипс 2 копия 2" class="cls-5" cx="6.5" cy="52.5" r="6.5"/>
+</svg>
